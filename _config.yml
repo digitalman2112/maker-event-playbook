@@ -1,1 +1,3 @@
 remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
+
+theme: jekyll-theme-merlot
